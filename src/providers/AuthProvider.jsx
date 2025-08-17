@@ -16,6 +16,7 @@ import axios from 'axios'
 // all rady update
 // eslint-disable-next-line react-refresh/only-export-components
 // dhhjdjkjkdjk
+// ijdjjkdkjdjkl
 export const AuthContext = createContext(null)
 const auth = getAuth(app)
 const googleProvider = new GoogleAuthProvider()
