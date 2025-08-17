@@ -13,7 +13,7 @@ const PolicyDetails = () => {
             return res.data;
         },
     });
-
+// djdjdjdjdj
     if (isLoading) {
         return (
             <div className="flex items-center justify-center h-screen">
